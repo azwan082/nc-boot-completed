@@ -1,4 +1,4 @@
-# Android BOOT_COMPLETED handler
+# Titanium Android BOOT_COMPLETED handler
 
 This module add support to run JS file when Android device has completed booting (received BOOT_COMPLETED broadcast intent)
 
